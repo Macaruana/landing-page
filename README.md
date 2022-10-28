@@ -2,7 +2,9 @@
 
 project landing page - creating a webpage following the design of 2 pictures given in folder design-images. 
 
-my creation is apart of a training guide provided by the Odin Project © 2021. I have drawn inspiration from these images and used them towards creating a homepage for a football club. 
+my creation is apart of a training guide provided by the Odin Project © 2021. I have drawn inspiration from these images and used them towards creating a homepage for my local football club. 
+
+everything in this document is used as an exemplary model for showcasing my understanding of html and CSS 
 
 
 The images have been sourced to represent Northern storm from various local websites 
